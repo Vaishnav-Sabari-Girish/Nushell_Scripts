@@ -11,6 +11,6 @@
 
 2. [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0.svg?style=for-the-badge&logo=Codeberg&logoColor=white)](https://codeberg.org/Vaishnav-Sabari-Girish/Nushell_Scripts)
 
-3. [![Gitea](https://img.shields.io/badge/Gitea-609926.svg?style=for-the-badge&logo=Gitea&logoColor=white)]
+3. [![Gitea](https://img.shields.io/badge/Gitea-609926.svg?style=for-the-badge&logo=Gitea&logoColor=white)](https://gitea.com/Vaishnav-Sabari-Girish/Nushell_Scripts)
 
-4. [![![Radicle](https://img.shields.io/badge/Radicle-7677CA.svg?style=for-the-badge&logo=Radicle&logoColor=white)]](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z25HyfHiKF79wjVoT6v2TUJKmEW4B)
+4. [![Radicle](https://img.shields.io/badge/Radicle-7677CA.svg?style=for-the-badge&logo=Radicle&logoColor=white)](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z25HyfHiKF79wjVoT6v2TUJKmEW4B)
