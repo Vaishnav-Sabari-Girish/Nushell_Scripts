@@ -10,6 +10,7 @@
 6. [Range](range.nu)
 7. [Cell Path](cell_path.nu)
 8. [File sizes](file_sizes.nu)
+9. [Closures](closures.nu)
 
 # Repo Mirror Links 
 
