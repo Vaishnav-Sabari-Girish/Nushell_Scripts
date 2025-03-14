@@ -8,6 +8,7 @@
 4. [Date](current_date.nu)
 5. [Duration](duration_print.nu)
 6. [Range](range.nu)
+7. [Cell Path](cell_path.nu)
 
 # Repo Mirror Links 
 
