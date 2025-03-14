@@ -2,7 +2,8 @@
 
 ## Programs 
 
-1. Hello World
+1. [Hello World](hello_world.nu)
+2. [Variables](variables.nu)
 
 
 # Repo Mirror Links 
