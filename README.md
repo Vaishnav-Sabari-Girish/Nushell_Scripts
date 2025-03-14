@@ -13,6 +13,8 @@
 9. [Closures](closures.nu)
 10. [List](list.nu)
 11. [Records](record.nu)
+12. [Tables](tables.nu)
+
 
 # Repo Mirror Links 
 
