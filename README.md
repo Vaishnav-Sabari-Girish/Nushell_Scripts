@@ -5,6 +5,8 @@
 1. [Hello World](hello_world.nu)
 2. [Variables](variables.nu)
 3. [Datatypes](data_types.nu)
+4. [Date](current_date.nu)
+5. [Duration](duration_print.nu)
 
 # Repo Mirror Links 
 
