@@ -9,6 +9,7 @@
 5. [Duration](duration_print.nu)
 6. [Range](range.nu)
 7. [Cell Path](cell_path.nu)
+8. [File sizes](file_sizes.nu)
 
 # Repo Mirror Links 
 
