@@ -12,6 +12,7 @@
 8. [File sizes](file_sizes.nu)
 9. [Closures](closures.nu)
 10. [List](list.nu)
+11. [Records](record.nu)
 
 # Repo Mirror Links 
 
