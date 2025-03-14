@@ -11,6 +11,7 @@
 7. [Cell Path](cell_path.nu)
 8. [File sizes](file_sizes.nu)
 9. [Closures](closures.nu)
+10. [List](list.nu)
 
 # Repo Mirror Links 
 
