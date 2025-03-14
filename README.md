@@ -4,7 +4,7 @@
 
 1. [Hello World](hello_world.nu)
 2. [Variables](variables.nu)
-
+3. [Datatypes](data_types.nu)
 
 # Repo Mirror Links 
 
