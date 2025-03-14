@@ -7,6 +7,7 @@
 3. [Datatypes](data_types.nu)
 4. [Date](current_date.nu)
 5. [Duration](duration_print.nu)
+6. [Range](range.nu)
 
 # Repo Mirror Links 
 
