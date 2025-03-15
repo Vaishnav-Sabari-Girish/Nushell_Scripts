@@ -24,6 +24,7 @@
 18. [Custom Commands](fundamentals/custome_commands.nu)
 19. [Collect command](fundamentals/collect_command.nu)
 20. [Colored Text](fundamentals/colored_text.nu)
+21. [Starts with and Ends with keyword](fundamentals/starts_and_ends_with.nu)
 
 # Repo Mirror Links 
 
