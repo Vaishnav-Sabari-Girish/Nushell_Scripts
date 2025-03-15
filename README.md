@@ -21,6 +21,7 @@
 15. [Pipelines in filter closures](fundamentals/pipelines_in_filter_closures.nu) 
 16. [Updating the list](fundamentals/update_list.nu)
 17. [Functions](fundamentals/functions.nu)
+18. [Custom Commands](fundamentals/custome_commands.nu)
 
 # Repo Mirror Links 
 
