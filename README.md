@@ -14,6 +14,7 @@
 10. [List](list.nu)
 11. [Records](record.nu)
 12. [Tables](tables.nu)
+13. [Pipelines](pipelines.nu)
 
 
 # Repo Mirror Links 
