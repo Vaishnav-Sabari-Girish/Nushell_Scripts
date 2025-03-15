@@ -13,3 +13,13 @@ print "Performing multiplication of all elements"
 let b = ($a | $a.0 * $a.1 * $a.2 * $a.3)
 
 print $b 
+
+print "Multiline pipeline"
+
+let year = (
+  "15/03/2025" |
+  parse "{day}/{month}/{year}" |
+  get year 
+)
+
+print $year
