@@ -23,6 +23,7 @@
 17. [Functions](fundamentals/functions.nu)
 18. [Custom Commands](fundamentals/custome_commands.nu)
 19. [Collect command](fundamentals/collect_command.nu)
+20. [Colored Text](fundamentals/colored_text.nu)
 
 # Repo Mirror Links 
 
