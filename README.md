@@ -27,6 +27,7 @@
 21. [Starts with and Ends with keyword](fundamentals/starts_and_ends_with.nu)
 22. [Regex Matching](fundamentals/regex_matching.nu)
 23. [List operations](fundamentals/list_operations.nu)
+24. [Spread operator](fundamentals/spread_operator.nu)
 
 # Repo Mirror Links 
 
