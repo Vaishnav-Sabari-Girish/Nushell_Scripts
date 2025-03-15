@@ -16,7 +16,7 @@
 12. [Tables](tables.nu)
 13. [Pipelines](pipelines.nu)
 14. [$in Keyword](in_keyword.nu)
-
+15. [Pipelines in filter closures](pipelines_in_filter_closures.nu) 
 
 # Repo Mirror Links 
 
