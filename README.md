@@ -18,6 +18,7 @@
 14. [$in Keyword](in_keyword.nu)
 15. [Pipelines in filter closures](pipelines_in_filter_closures.nu) 
 16. [Updating the list](update_list.nu)
+17. [Functions](functions.nu)
 
 # Repo Mirror Links 
 
