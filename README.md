@@ -25,6 +25,7 @@
 19. [Collect command](fundamentals/collect_command.nu)
 20. [Colored Text](fundamentals/colored_text.nu)
 21. [Starts with and Ends with keyword](fundamentals/starts_and_ends_with.nu)
+22. [Regex Matching](fundamentals/regex_matching.nu)
 
 # Repo Mirror Links 
 
