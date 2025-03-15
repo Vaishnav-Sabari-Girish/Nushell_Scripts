@@ -22,6 +22,7 @@
 16. [Updating the list](fundamentals/update_list.nu)
 17. [Functions](fundamentals/functions.nu)
 18. [Custom Commands](fundamentals/custome_commands.nu)
+19. [Collect command](fundamentals/collect_command.nu)
 
 # Repo Mirror Links 
 
