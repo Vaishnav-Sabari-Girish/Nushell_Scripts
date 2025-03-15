@@ -2,6 +2,8 @@
 
 ## Programs 
 
+### Fundamentals
+
 1. [Hello World](fundamentals/hello_world.nu)
 2. [Variables](fundamentals/variables.nu)
 3. [Datatypes](fundamentals/data_types.nu)
