@@ -31,6 +31,7 @@
 25. [Iteration over a list](fundamentals/list_iteration.nu)
 26. [Filtering a list](fundamentals/list_filtering.nu)
 27. [Reduce Keyword](fundamentals/reduce_keyword.nu)
+28. [Accessing List ELements](fundamentals/accessing_list.nu)
 
 # Repo Mirror Links 
 
