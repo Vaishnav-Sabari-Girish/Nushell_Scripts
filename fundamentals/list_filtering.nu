@@ -1,11 +1,12 @@
 # Filters the elements of a list 
 
-let colors = [red green blue yellow orange cyan magenta turquoise crimson]
+let l1 = [7 8 9 1 0 2 45 2 6]
 
 print "Original list"
-print ($colors)
+print ($l1)
 
 print "\n"
 
-print "Filtering the list to print the colors that end with e"
-print ($colors | where ($it | str ends-with 'e'))
+print "Filtered List (Printing values < 7"
+
+print ($l1 | where $it < 7)
