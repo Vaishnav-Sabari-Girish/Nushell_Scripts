@@ -30,6 +30,7 @@
 24. [Spread operator](fundamentals/spread_operator.nu)
 25. [Iteration over a list](fundamentals/list_iteration.nu)
 26. [Filtering a list](fundamentals/list_filtering.nu)
+27. [Reduce Keyword](fundamentals/reduce_keyword.nu)
 
 # Repo Mirror Links 
 
