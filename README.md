@@ -28,6 +28,7 @@
 22. [Regex Matching](fundamentals/regex_matching.nu)
 23. [List operations](fundamentals/list_operations.nu)
 24. [Spread operator](fundamentals/spread_operator.nu)
+25. [Iteration over a list](fundamentals/list_iteration.nu)
 
 # Repo Mirror Links 
 
